@@ -1,5 +1,4 @@
 [
-    
   { "name": "Genjii", "count": 1, "filler": true, "category": ["Characters: Filler"] },
   { "name": "Noroiko", "count": 1, "filler": true, "category": ["Characters: Filler"] },
   { "name": "Two Red Dots", "count": 1, "filler": true, "category": ["Characters: Filler"] },
@@ -392,5 +391,6 @@
   { "name": "youtu.be/dpONVAghbUA", "count": 1, "filler": true, "category": ["Stupid Filler"] },
   { "name": "Morph Ball", "count": 1, "filler": true, "category": ["Stupid Filler"] },
   { "name": "Mask (By Dream)", "count": 1, "filler": true, "category": ["Stupid Filler"] },
-  { "name": "Dart Monkey", "count": 1, "filler": true, "category": ["Characters: Filler"] }
+  { "name": "Dart Monkey", "count": 1, "filler": true, "category": ["Characters: Filler"] },
+  { "name": "True Golden Dick", "count": 1, "filler": true, "category": ["Stupid Filler"] }
 ]
