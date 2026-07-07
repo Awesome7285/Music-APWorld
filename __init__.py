@@ -5,6 +5,7 @@ from .Regions import create_regions, TouhouMusicItem
 from .Rules import set_rules, fake_set_rules, required_bounties
 
 from BaseClasses import Item, ItemClassification, Tutorial
+from Options import OptionError
 from ..AutoWorld import World, WebWorld
 
 import logging
