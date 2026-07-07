@@ -4,7 +4,7 @@ from .ParseJSON import index_to_file, file_to_index, file_to_regions
 
 class EnabledGroups(OptionSet):
     """Determines which Groups/Categories can have albums chosen from.
-    Valid Options: "pc98", "mainline_games", "fighting_games", "spinoff_shmups", "zuns_music_collection", "print_works_cds", "seihou",
+    Valid Options: "pc98", "mainline_games", "fighting_games", "spinoff_shmups", "zuns_music_collection", "print_works_cds", "seihou", "lenen",
     "digital_wing", "digital_wing_ravers_nest", "digital_wing_dance_anthem", "halozy", 
     "sound_refil", "k2e_cradle", "silver_forest", "amateras_records",
     "star_revenge", "click_the_bart" 
